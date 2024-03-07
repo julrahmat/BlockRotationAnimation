@@ -1,0 +1,26 @@
+{
+"name": "julrahmatrotationanimation",
+"version": "1.0.0",
+"description": "This JavaScript code creates a simple animation of a rotating block. The animation is achieved by continuously rotating a square block element using CSS transformations.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/julrahmat/BlockRotationAnimation.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "julrahmat",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
